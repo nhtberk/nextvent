@@ -1,8 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
 @layer base {
   :root {
+    --color-light-gray: #E7E5E2;
+    --color-black: #000000;
+    --color-yellow: #FDCA5A;
+    --color-dark-gray: #111111;
+    --color-pink: #F7ADC8;
+  
     --sidebar-background: 0 0% 98%;
     --sidebar-foreground: 240 5.3% 26.1%;
     --sidebar-primary: 240 5.9% 10%;
@@ -13,6 +21,12 @@
     --sidebar-ring: 217.2 91.2% 59.8%
   }
   .dark {
+    --color-dark-light-gray: #2E2E2E;
+    --color-dark-black: #121212;
+    --color-dark-yellow: #FDCA5A;
+    --color-dark-dark-gray: #E0E0E0;
+    --color-dark-pink: #F7ADC8;
+
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;
