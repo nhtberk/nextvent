@@ -26,7 +26,7 @@ NextVent is a modern, cross-platform event management application designed to st
 To get started with the project locally, follow these steps:
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/yourusername/nextvent.git
+   git clone https://github.com/nhtberk/nextvent.git
    ```
 2. Navigate to the project directory:
    ```
