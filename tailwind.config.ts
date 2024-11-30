@@ -42,16 +42,6 @@ export default {
   				border: 'hsl(var(--sidebar-border))',
   				ring: 'hsl(var(--sidebar-ring))'
   			},
-  			'light-gray': '#E7E5E2',
-  			black: '#000000',
-  			yellow: '#FDCA5A',
-  			'dark-gray': '#111111',
-  			pink: '#F7ADC8',
-  			'dark-light-gray': '#2E2E2E',
-  			'dark-black': '#121212',
-  			'dark-yellow': '#FDCA5A',
-  			'dark-dark-gray': '#E0E0E0',
-  			'dark-pink': '#F7ADC8'
   		}
   	}
   },
